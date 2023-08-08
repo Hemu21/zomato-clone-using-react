@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zomato-clone-using-react/static/css/main.d8952eff.css",
+    "main.js": "/zomato-clone-using-react/static/js/main.d2e0add7.js",
+    "index.html": "/zomato-clone-using-react/index.html",
+    "main.d8952eff.css.map": "/zomato-clone-using-react/static/css/main.d8952eff.css.map",
+    "main.d2e0add7.js.map": "/zomato-clone-using-react/static/js/main.d2e0add7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8952eff.css",
+    "static/js/main.d2e0add7.js"
+  ]
+}
