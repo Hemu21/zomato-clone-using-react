@@ -1,0 +1,53 @@
+.navbar{
+  display: flex;
+  margin-left: 10px;
+}
+.navItems{
+  width:187px;
+  height: 89px;
+  display: flex;
+  background: white;
+  border: none;
+}
+.navItems1{
+  width:187px;
+  height: 89px;
+  display: flex;
+  background: white;
+  border: none;
+  border-bottom: 5px rgb(242, 50, 50) solid;
+}
+.navLogo{
+  width: 30px;
+  height: 30px;
+  margin: 13px 0px 0px 3px;
+}
+.logo{
+  width:60px;
+  height: 60px;
+  background: rgb(248, 172, 32);
+  border-radius: 50%;
+  margin: auto;
+}
+.logo1{
+  width:60px;
+  height: 60px;
+  background: white;
+  border-radius: 50%;
+  margin: auto;
+}
+.logo2{
+  width:60px;
+  height: 60px;
+  background: rgb(69, 191, 248);
+  border-radius: 50%;
+  margin: auto;
+}
+.navContent{
+  margin: auto;
+  color: grey;
+}
+.navContent1{
+  margin: auto;
+  color: rgb(240, 35, 56);
+}

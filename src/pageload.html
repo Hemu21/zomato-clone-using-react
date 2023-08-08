@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+	<title>Circular animation on favicon</title>
+	<link rel="shortcut icon" href="gfgFavicon.png" width=32px>
+	<script language="javascript">
+		onload = function() {
+			canvas = document.querySelector('#canvasId'),
+				context = canvas.getContext('2d');
+			if (!!context) {
+
+				// The start position for drawing circle
+				C3qpi = 1.5 * Math.PI,
+					tc = pct = 0,
+					btn = document.querySelector('#animateBtn'),
+					faviconLnk = document.querySelector('link[rel*="icon"]');
+				context.lineWidth = 3;
+				context.strokeStyle = 'green';
+
+				// On page refresh, enable the button
+				if (btn.disabled) btn.removeAttribute('disabled');
+				btn.addEventListener('click', function() {
+					tc = setInterval(drawcircularLoader, 60);
+					this.textContent = 'Animating';
+					this.style.backgroundColor = '#99999';
+					this.setAttribute('disabled', '');
+				});
+			}
+		};
+
+		function drawcircularLoader() {
+			with(context) {
+				clearRect(0, 0, 32, 32);
+				beginPath();
+				arc(8, 8, 6, C3qpi, (pct * 2 * Math.PI / 100 + C3qpi));
+				stroke();
+			}
+
+			// Update favicon to PNG image
+			faviconLnk.href = canvas.toDataURL('image/png');
+			if (pct === 100) {
+				clearInterval(tc);
+				btn.textContent = 'Animated';
+				btn.style.backgroundColor = 'green';
+				return;
+			}
+			pct++;
+		}
+	</script>
+	<style>
+		body {
+			width: 450px;
+			height: 300px;
+			margin: 10px;
+			text-align: center;
+		}
+		
+		h1 {
+			color: green;
+		}
+		
+		#animateBtn {
+			background-color: #1c2e46;
+			border-radius: 2px;
+			border: none;
+			color: white;
+			font-family: inherit;
+			font-size: inherit;
+			padding: 0px 5px;
+			letter-spacing: 1px;
+			cursor: pointer;
+		}
+		
+		#animateBtn:focus {
+			outline: none;
+		}
+		
+		#animateBtn[disabled] {
+			cursor: default;
+		}
+		
+		.height {
+			height: 10px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>GeeksforGeeks</h1>
+	<b>How to use circular animation on favicon image</b>
+	<div class="height"> </div>
+	<br>
+
+	<!-- Canvas and button for animation -->
+	<button id="animateBtn">Animate Favicon </button>
+	<br>
+	<br>
+	<canvas id="canvasId" width=32 height=32></canvas>
+</body>
+
+</html>

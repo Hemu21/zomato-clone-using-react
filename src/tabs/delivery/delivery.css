@@ -1,0 +1,74 @@
+.inspire{
+    font-size: 30px;
+    text-align: left;
+    margin: 15px 0px 5px 10px;
+}
+.inspireMain{
+    position: relative;
+    width: 980px;
+    height: 275px;
+    border: none;
+    overflow: hidden;
+    margin: 5px 0px 20px 0px;
+}
+.btns{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: none;
+    box-shadow:3px 3px 3px grey;
+    top: 45%;
+    right: 5px;
+    cursor: pointer;
+}
+.btns1{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px orange solid;
+    box-shadow:3px 3px 3px grey;
+    top: 45%;
+    right: 5px;
+    cursor: pointer;
+}
+
+.Lbtns{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: none;
+    box-shadow:3px 3px 3px grey;
+    top: 45%;
+    left: 0px;
+    cursor: pointer;
+}
+.Lbtns1{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px orange solid;
+    box-shadow:3px 3px 3px grey;
+    top: 45%;
+    left: 0px;
+    cursor: pointer;
+}
+.items{
+    width: 1000px;
+    height: 265px;
+    border: none;
+    margin: 5px 0px 20px 0px;
+}
+.carditem{
+    padding: 0px;
+    display: inline;
+    float: left;
+    border-radius: 5px;
+    margin: 0px 0px 0px 10px ;
+}
+.carditem:hover{
+    box-shadow: 4px 4px 4px 4px grey;
+}

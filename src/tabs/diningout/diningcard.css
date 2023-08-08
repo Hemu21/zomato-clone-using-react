@@ -1,0 +1,89 @@
+.dcardMain{
+    width: 310px;
+    height: 350px;
+    position: relative;
+    margin: 15px 0px 20px 1px;
+    border-radius: 5px;
+    
+}
+.dcardImage{
+    width: 310px;
+    height: 248px;
+    border-radius: 5px;
+}
+.dcardOffer{
+    width: 142px;
+    height: 18px;
+    background: hsl(330, 9%, 21%);
+    text-align: center;
+    color: #FFD385;
+    position: absolute;
+    top: 58%;
+}
+.dcardName{
+    width: 190px;
+    height: 20px;
+    font-size: 18px;
+    margin: 0px;
+    position: absolute;
+    left: 0px;
+    overflow: hidden;
+    justify-content: left;
+}
+.dcardDetail{
+    width: 190px;
+    height: 30px;
+    font-size: 13px;
+    position: absolute;
+    top: 80%;
+    margin: 4px 0px 4px 0px;
+    color: grey;
+}
+.dcardRating{
+    width:41px;
+    height: 20px;
+    background: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    text-align: left;
+    padding: 0px 0px 0px 2px;
+    position: relative;
+    float: right;
+}
+.dcardRatingt{
+    display: inline;
+    width:20px;
+    height: 20px;
+    background: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    text-align: left;
+    padding: 0px 0px 0px 2px;
+}
+.dcardPrice{
+    width:80px;
+    height:25px;
+    font-size: 12px;
+    position: absolute;
+    top: 78%;
+    right: 0px;
+    color: grey;
+}
+.dcardTime{
+    width: 48px;
+    height: 21px;
+    padding: 2px 5px 3px 0px;
+    position: absolute;
+    font-size: 20px;
+    text-align: right;
+    top: 80%;
+    right: 0px;
+}
+.dcardStar{
+    font-size:9px;
+    position: absolute;
+    top: 25%;
+    right:10%;
+}

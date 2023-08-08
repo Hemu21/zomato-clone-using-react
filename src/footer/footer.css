@@ -1,0 +1,59 @@
+.main{
+    display: flexbox;
+    height: 454px;
+    width: 990px;
+}
+.FHead{
+    height: 35px;
+    width: 990px;
+    margin: 48px 0px 40px 0px;
+    cursor: pointer;
+}
+.Flogo{
+    cursor: pointer;
+    width: 132px;
+    height: 28px;
+    margin-top: 80px;
+}
+.india{
+    width: 110px;
+    height: 38px;
+    margin: 0px 5px 0px 570px;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+.fullFoot{
+    width: 990px;
+    height: 100px;
+}
+.insideFull{
+    width: 190px;
+    float: left;
+}
+.wor{
+    color: grey;
+    margin: 10px;
+    cursor: pointer;
+}
+.wor:hover{
+    color: black;
+    cursor: pointer;
+}
+.miniIcons{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #181616;
+    color: white;
+    cursor: pointer;
+    float: left;
+    padding: 7px 0px 0px 7px;
+    margin: 3px;
+}
+.last{
+    width: 970px;
+    height: 80px;
+    border-top: 1px #8080808a solid;
+    margin-top: 180px;
+    font-size: 13.2px;
+}

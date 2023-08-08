@@ -1,0 +1,362 @@
+[
+    {
+        "id":1,
+        "image":"https://b.zmtcdn.com/data/pictures/3/20562643/c12a9390c911297c42fc5ba5c6f404b3_featured_v2.jpg",
+        "offer":" ",
+        "name":"Babylon Bar And Kitchen",
+        "details":"Asian, Sushi, Chinese, It..",
+        "rating":"4.4", 
+        "price":"₹3,500 for two",
+        "time":"10.5 km"
+    },
+    {
+        "id":2,
+        "image":"https://b.zmtcdn.com/data/pictures/3/19797553/c398782475e8bc2f829915819a1b79f0_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"AnTeRa Kitchen And Bar",
+        "details":"South Indian, North Indian..",
+        "rating":"4.4", 
+        "price":"₹2,500 for two",
+        "time":"10.1 km"
+    },
+    {
+        "id":3,
+        "image":"https://b.zmtcdn.com/data/pictures/0/20236950/da539860e558621893c9dc28d3dab66e_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Red Rhino",
+        "details":"Sushi, Mediterranean, Orie..",
+        "rating":"4.6", 
+        "price":"₹2,400 for two",
+        "time":"12.7 km"
+    },
+    {
+        "id":4,
+        "image":"https://b.zmtcdn.com/data/pictures/9/18356469/465c9a710e89e24e9c821c6af175c5db_featured_v2.jpg",
+        "offer":" ",
+        "name":"Prost",
+        "details":"Continental, Pasta, Fast F..",
+        "rating":"4.5", 
+        "price":"₹2,500 for two",
+        "time":"10.8 km"
+    },
+    {
+        "id":5,
+        "image":"https://b.zmtcdn.com/data/pictures/4/19347494/32f38d24fe87607b2f62f5ea5c3ad6af_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Exotica",
+        "details":"North Indian, Biryani, Ke..",
+        "rating":"4.8", 
+        "price":"₹2,500 for two",
+        "time":"14.6 km"
+    },
+    {
+        "id":6,
+        "image":"https://b.zmtcdn.com/data/pictures/3/20598223/a67b4025b919f4ea9dfa27e90d979c83_featured_v2.jpg",
+        "offer":" ",
+        "name":"ZYTHUM Brewing Co..",
+        "details":"Continental, Pizza, North..",
+        "rating":"4.3", 
+        "price":"₹2,500 for two",
+        "time":"9.3 km"
+    },
+    {
+        "id":7,
+        "image":"https://b.zmtcdn.com/data/pictures/4/20670174/6f17398065300428ee109929c53a20c3_featured_v2.jpg",
+        "offer":" ",
+        "name":"Lord Of The Drinks",
+        "details":"North Indian, Asian, Dess..",
+        "rating":"4.4", 
+        "price":"₹2,500 for two",
+        "time":"10.5 km"
+    },
+    {
+        "id":8,
+        "image":"https://b.zmtcdn.com/data/pictures/6/18570856/4ba111aaed3b90d13246361e3186d9c5_featured_v2.jpg",
+        "offer":"Flat 50% OFF",
+        "name":"Tiki Shack",
+        "details":"North Indian, Asian..",
+        "rating":"3.9", 
+        "price":"₹2,500 for two",
+        "time":"15.4 km"
+    },    
+    {
+        "id":9,
+        "image":"https://b.zmtcdn.com/data/pictures/6/93766/187cbc9ec9e6c40d087f2bc53a234274_featured_v2.jpg",
+        "offer":" ",
+        "name":"Olive Bistro & Bar",
+        "details":"Italian, European, De..",
+        "rating":"4.6", 
+        "price":"₹1,800 for two",
+        "time":"11.3 km"
+    },
+    {
+        "id":10,
+        "image":"https://b.zmtcdn.com/data/pictures/8/20037678/dc575d1e6e17458b0f0679f95b4f617a_featured_v2.jpg",
+        "offer":" ",
+        "name":"Onegolf Brewery",
+        "details":"Continental, North I..",
+        "rating":"4.5", 
+        "price":"₹1,800 for two",
+        "time":"16.5 km"
+    },
+    {
+        "id":11,
+        "image":"https://b.zmtcdn.com/data/pictures/1/20071121/29884b0e98167f38a78df27184d239de_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Voila",
+        "details":"European, Modern Indian..",
+        "rating":"4.5", 
+        "price":"₹1,800 for two",
+        "time":"10.3 km"
+    },
+    {
+        "id":12,
+        "image":"https://b.zmtcdn.com/data/pictures/7/18487737/9721e25633b2b043c301f7f64faafe72_featured_v2.jpg",
+        "offer":"Flat 20% OFF",
+        "name":"36 Downtown Brew Pub",
+        "details":"Continental, Hyderabad..",
+        "rating":"4.3", 
+        "price":"₹3,000 for two",
+        "time":"11.2 km"
+    },
+    {
+        "id":13,
+        "image":"https://b.zmtcdn.com/data/pictures/7/18221507/bf91aa5a3c1105283a58a072341050c1_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Air Live",
+        "details":"North Indian, Italian..",
+        "rating":"4.3", 
+        "price":"₹3,500 for two",
+        "time":"10 km"
+    },
+    {
+        "id":14,
+        "image":"https://b.zmtcdn.com/data/pictures/2/19878202/63274232c609a0463e6eaeb28bb1277f_featured_v2.jpg",
+        "offer":" ",
+        "name":"Forge Breu - Hous",
+        "details":"Finger Food, Continental..",
+        "rating":"4.4", 
+        "price":"₹2,500 for two",
+        "time":"10.9 km"
+    },
+    {
+        "id":15,
+        "image":"https://b.zmtcdn.com/data/pictures/4/19899034/87f0cb274f1b444507cafbe1c763a0bb_featured_v2.jpg",
+        "offer":" ",
+        "name":"Elsewhere Lounge & Kitchen",
+        "details":"North Indian, Mughlai,..",
+        "rating":"4.2", 
+        "price":"₹2,500 for two",
+        "time":"12.9 km"
+    },
+    {
+        "id":16,
+        "image":"https://b.zmtcdn.com/data/pictures/4/19982534/b10325b554ab79c19207b13639e9894c_featured_v2.jpg",
+        "offer":" ",
+        "name":"Makau",
+        "details":"Continental, Beverages,..",
+        "rating":"4.2", 
+        "price":"₹2,500 for two",
+        "time":"11.3 km"
+    },
+    {
+        "id":17,
+        "image":"https://b.zmtcdn.com/data/pictures/2/18807262/0a30fc154518b81c125b6d68362fd6ce_featured_v2.jpg",
+        "offer":" ",
+        "name":"Broadway",
+        "details":"Continental, North Ind..",
+        "rating":"4.3", 
+        "price":"₹3,000 for two",
+        "time":"10.4 km"
+    },
+    {
+        "id":18,
+        "image":"https://b.zmtcdn.com/data/pictures/1/20682991/438df3eb51b62d9346bfd1c9374c88b0_featured_v2.jpg",
+        "offer":" ",
+        "name":"ASIE",
+        "details":"Chinese, Sushi, Asian,..",
+        "rating":"4.2", 
+        "price":"₹1,400 for two",
+        "time":"15.8 km"
+    },
+    {
+        "id":19,
+        "image":"https://b.zmtcdn.com/data/pictures/1/18464791/4be1dc178b33b495806a37b2c62fa5e5_featured_v2.jpg",
+        "offer":"Flat 25% OFF",
+        "name":"Amnesia Lounge Bar",
+        "details":"Bar Food, American, Past..",
+        "rating":"4.2", 
+        "price":"₹1,800 for two",
+        "time":"10.3 km"
+    },
+    {
+        "id":20,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/5/18607685/b6db9a6d50f0880c9e640815daddf832_featured_v2.jpg",
+        "offer":" ",
+        "name":"Farzi Cafe",
+        "details":"Modern Indian, North In..",
+        "rating":"4.6", 
+        "price":"₹2,000 for two",
+        "time":"10 km"
+    },
+    {
+        "id":21,
+        "image":"https://b.zmtcdn.com/data/pictures/8/20059868/9c17857c6643e0567b50ee81b42f6cba_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"SKYHY Live",
+        "details":"Chinese, Continental, F..",
+        "rating":"4.1", 
+        "price":"₹2,000 for two",
+        "time":"13.8 km"
+    },
+    {
+        "id":22,
+        "image":"https://b.zmtcdn.com/data/pictures/6/96626/89646b91e3a92977ac8a5fe49beefca0_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Jonathan's Kitchen",
+        "details":"North Indian, Japanese, I..",
+        "rating":"4.4", 
+        "price":"₹2,500 for two",
+        "time":"15 km"
+    },
+    {
+        "id":23,
+        "image":"https://b.zmtcdn.com/data/pictures/5/18716525/e46ad3a45d0f45e9416642b7227e49ed_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Aura Cafe & Infusion Bar",
+        "details":"Continental, Italian, C..",
+        "rating":"4.5", 
+        "price":"₹2,000 for two",
+        "time":"10.3 km"
+    },
+    {
+        "id":24,
+        "image":"https://b.zmtcdn.com/data/pictures/2/18657712/95c8d59133355c2a29a76949d89dbfde_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Insomnia",
+        "details":"North Indian, Italian, Ch..",
+        "rating":"4.2", 
+        "price":"₹1,900 for two",
+        "time":"10.3 km"
+    },
+    {
+        "id":25,
+        "image":"https://b.zmtcdn.com/data/pictures/2/96082/4ca922240062e9d4f188b9802f824454_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Heart Cup Coffee",
+        "details":"Continental, Asian, North..",
+        "rating":"4.3", 
+        "price":"₹2,000 for two",
+        "time":"10.1 km"
+    },
+    {
+        "id":26,
+        "image":"https://b.zmtcdn.com/data/pictures/6/19569796/00f980c624aabeda2c022ae2bbe65122_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Frat House",
+        "details":"Continental, Asian, Chines..",
+        "rating":"4.2", 
+        "price":"₹2,500 for two",
+        "time":"15.4 km"
+    },
+    {
+        "id":27,
+        "image":"https://b.zmtcdn.com/data/pictures/3/20721563/b6b46944f08fe7283ffceb8a68eea670_featured_v2.jpg",
+        "offer":" ",
+        "name":"Bellinie & Bae - The..",
+        "details":"Bar Food, Continental, Nor..",
+        "rating":"4.3", 
+        "price":"₹1,800 for two",
+        "time":"9.9 km"
+    },
+    {
+        "id":28,
+        "image":"https://b.zmtcdn.com/data/pictures/6/18505236/4de2e5bcab7bae7428f5e2a9f46fa716_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"The Hoppery",
+        "details":"Continental, Desserts, Beve..",
+        "rating":"4.2", 
+        "price":"₹2,000 for two",
+        "time":"11.3 km"
+    },
+    {
+        "id":29,
+        "image":"https://b.zmtcdn.com/data/pictures/1/20402271/e79470d4574d20c021abf09431ee6ab3_featured_v2.jpg",
+        "offer":" ",
+        "name":"Monastery",
+        "details":"Continental, Mexican, Asi..",
+        "rating":"4.4", 
+        "price":"₹1,700 for two",
+        "time":"12.4 km"
+    },
+    {
+        "id":30,
+        "image":"https://b.zmtcdn.com/data/pictures/1/20251021/01728f1ae8259bfe4cf84cd0ae2f951a_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"F House",
+        "details":"Continental, Asian, Andhra..",
+        "rating":"4.1", 
+        "price":"₹2,100 for two",
+        "time":"11 km"
+    },
+    {
+        "id":31,
+        "image":"https://b.zmtcdn.com/data/pictures/9/20274679/4977f8a9958864402e4b9a3973840347_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Tasca Bar & Kitchen",
+        "details":"Asian, Continental, North I..",
+        "rating":"4.5", 
+        "price":"₹2,500 for two",
+        "time":"15.8 km"
+    },
+    {
+        "id":32,
+        "image":"https://b.zmtcdn.com/data/pictures/0/18795170/b6047e53bdb9ebce032c9505dc23eed0_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"President Dhaba Bar & Kitchen",
+        "details":"North Indian, Chinese, Se..",
+        "rating":"4.2", 
+        "price":"₹1,700 for two",
+        "time":"9.9 km"
+    },
+    {
+        "id":33,
+        "image":"https://b.zmtcdn.com/data/pictures/5/18965675/2057412d7d9752f7494cdd597e9cd122_featured_v2.jpg",
+        "offer":" ",
+        "name":"Chubby Cho",
+        "details":"Chinese, Japanese, Orien..",
+        "rating":"4.3", 
+        "price":"₹1,400 for two",
+        "time":"9.7 km"
+    },
+    {
+        "id":34,
+        "image":"https://b.zmtcdn.com/data/pictures/7/19896057/eb6090bca857737251e62b601369281e_featured_v2.jpg",
+        "offer":"Flat 15% OFF",
+        "name":"Hard Rock Cafe",
+        "details":"American, Continental, It..",
+        "rating":"4.6", 
+        "price":"₹2,000 for two",
+        "time":"12.4 km"
+    },
+    {
+        "id":35,
+        "image":"https://b.zmtcdn.com/data/pictures/5/19643615/b76c9c6d596dba5a689f27d2844d7e3f_featured_v2.jpg",
+        "offer":"Flat 10% OFF",
+        "name":"Ironhill",
+        "details":"North Indian, Continental,..",
+        "rating":"4.4", 
+        "price":"₹1,900 for two",
+        "time":"16.5 km"
+    },
+    {
+        "id":36,
+        "image":"https://b.zmtcdn.com/data/pictures/9/18683769/477c29d7dc2fa9facf5e77c56790ced2_featured_v2.jpg",
+        "offer":" ",
+        "name":"Telangana Spice Kitchen",
+        "details":"South Indian, North Indian,..",
+        "rating":"4.4", 
+        "price":"₹2,500 for two",
+        "time":"9.2 km"
+    }
+]

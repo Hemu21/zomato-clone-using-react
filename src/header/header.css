@@ -1,0 +1,68 @@
+header{
+    height: 72px;
+    width: 990px;
+    display: flex;
+       
+}
+.headerLogo{
+    justify-content: center;
+    margin: 18px 5px 0px 10px;
+}
+.searchContent{
+    border: 1px black solid;
+    width: 600px;
+    height: 43px;
+    margin: 11px 5px 0px 5px;
+    border-radius: 5px;
+    display: inline-flex;
+}
+.location{
+    color: rgb(226, 46, 46);
+    font-size: 20px;
+    margin: 9px 0px 0px 9px;
+    
+}
+select{
+    width: 176px;
+    height: 35px;
+    margin: 3px;
+    padding-left: 4px;
+    font-size: 16px;
+    color: grey;
+    border: none;
+}
+.pipe{
+    color: grey;
+    margin: 5px 0px 0px 0px;
+    font-size: 23px;
+}
+.glass{
+    font-size: 20px;
+    color: grey;
+    margin: 10px 0px 0px 9px;
+}
+.search{
+    font-size: 15px;
+    width: 300px;
+    height: 25px;
+    margin: 7px 0px 0px 7px;
+    border: none;
+}
+.buttonsBox{
+    width: 210px;
+    height: 45px;
+    display: inline-flex;
+    gap: 40px;
+    margin: 10px 0px 0px 5px;
+    padding-left: 25px;
+}
+.buttons{
+    width: 80px;
+    font-size: 17px;
+    border: none;
+    background: white;
+    color: grey;
+}
+.buttons:hover{
+    color: black;
+}

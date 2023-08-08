@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Mehfil",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/d76be28e0885f4563a1dbaf3a45f4b74_1635882663.png"
+    },
+    {
+        "id": 2,
+        "name": "Shah Ghouse Hotel & Restaurant",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/8e611fa769c66049e2af45b00b1d8d52_1635882594.png"
+    },
+    {
+        "id": 3,
+        "name": "Pista House",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/0f13b4a115d1420b049835a5b2037a46_1649660664.png"
+    },
+    {
+        "id": 4,
+        "name": "McDonald's",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/3d80cb89fca9e212f7dab2c1914ebd8f_1643983679.png"
+    },
+    {
+        "id": 5,
+        "name": "KFC",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433071.png"
+    },
+    {
+        "id": 6,
+        "name": "Cream Stone Ice Cream",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/cba530e2b1d8439cd4170fef9b3f1d51_1635882104.png"
+    },
+    {
+        "id": 7,
+        "name": "Burger King",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187971.png"
+    },
+    {
+        "id": 8,
+        "name": "Lucky Restaurant",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/5c76053d6c336132ad80b5bd25c016ea_1691045001.png"
+    },
+    {
+        "id": 9,
+        "name": "Pizza Hut",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/c38f7540bcc5a38e918856ac06409056_1504531339.png"
+    },
+    {
+        "id": 10,
+        "name": "Paradise Biryani",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/6f7f4964abc7bb71c4bc370ccf36ff91_1633121322.png"
+    }  
+]

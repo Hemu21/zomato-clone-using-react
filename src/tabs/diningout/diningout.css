@@ -1,0 +1,74 @@
+.collectMainH{
+    width: 1010px;
+    height: 340px;
+    overflow: hidden;
+    
+}
+.collectitem{
+    padding: 0px;
+    display: inline;
+    float: left;
+    border-radius: 5px;
+    margin: 0px 0px 0px 10px ;
+}
+.CBtns{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: none;
+    box-shadow:3px 3px 3px grey;
+    top: 64%;
+    right: 15%;
+    cursor: pointer;
+}
+.CBtns1{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px orange solid;
+    box-shadow:3px 3px 3px grey;
+    top: 64%;
+    right: 15%;
+    cursor: pointer;
+}
+
+.CLBtns{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: none;
+    box-shadow:3px 3px 3px grey;
+    top: 64%;
+    left: 15%;
+    cursor: pointer;
+}
+.CLBtns1{
+    width: 40px;
+    height:40px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px orange solid;
+    box-shadow:3px 3px 3px grey;
+    top: 64%;
+    left: 15%;
+    cursor: pointer;
+}
+.ditems{
+    width: 1000px;
+    height: 265px;
+    border: none;
+    margin: 5px 0px 20px 0px;
+}
+.dcarditem{
+    padding: 0px;
+    display: inline;
+    float: left;
+    border-radius: 5px;
+    margin: 0px 0px 0px 10px ;
+}
+.dcarditem:hover{
+    box-shadow: 4px 4px 4px 4px grey;
+}

@@ -1,0 +1,28 @@
+.collectMain{
+    width: 215px;
+    height: 320px;
+    position: relative;
+    margin: 9.5px;
+    border-radius: 5px;   
+}
+.Image{
+    width: 215px;
+    height: 320px;
+    border-radius: 5px;
+}
+.Name{
+    font-size: 20px;
+    margin: 13px;
+    position: absolute;
+    top: 80%;
+    color: white;
+    background: hwb(0 17% 82%);
+}
+.Detail{
+    font-size: 15px;
+    margin: 13px;
+    position: absolute;
+    top: 87.3%;
+    color: white;
+    background: hwb(0 17% 82%);
+}

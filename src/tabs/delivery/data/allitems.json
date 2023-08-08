@@ -1,0 +1,362 @@
+[
+    {
+        "id":1,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/1/90391/5bc645dbf2bed815eb65c8e5f1d7b5ea_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Hotel Rumaan",
+        "details":"Biryani, Chinese, North Indian..",
+        "rating":"4.0", 
+        "price":"₹200 for one",
+        "time":"21 min"
+    },
+    {
+        "id":2,
+        "image":"https://b.zmtcdn.com/data/pictures/2/94352/2f69fa6ec9b8459fd33092820e904fb9_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Papadams Blue",
+        "details":"North Indian, Chinese, M...",
+        "rating":"4.0", 
+        "price":"₹200 for one",
+        "time":"50 min"
+    },
+    {
+        "id":3,
+        "image":"https://b.zmtcdn.com/data/pictures/4/20450074/ae4bee1430d091eedd5c853b4bd91689_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Kwality Wall’s Frozen..",
+        "details":"Ice Cream, Desserts",
+        "rating":"4.3", 
+        "price":"₹200 for one",
+        "time":"37 min"
+    },
+    {
+        "id":4,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/9/91999/ac37ff595764daab5390ed616dc6e10d_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Pista House",
+        "details":"North Indian, Chinese..",
+        "rating":"4.2", 
+        "price":"₹200 for one",
+        "time":"27 min"
+    },
+    {
+        "id":5,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/6/92136/46081f6dbc4c241b5e6dd62f396e3aec_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Hotel Nayaab",
+        "details":"North Indian, Mughlai..",
+        "rating":"4.0", 
+        "price":"₹200 for one",
+        "time":"20 min"
+    },
+    {
+        "id":6,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/7/18867877/54b6de34323395a3b10897e48bd2a6e5_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"La Pino'z Pizza",
+        "details":"Pizza, Pasta, Italian,..",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"46 min"
+    },
+    {
+        "id":7,
+        "image":"https://b.zmtcdn.com/data/pictures/6/20635616/1a688e78f42da4a35800058899cef4d5_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Peshawar",
+        "details":"North Indian, Seafood, Keb..",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"21 min"
+    },
+    {
+        "id":8,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/1/92651/ce899d6034c29487c1a1f0c9552f6170_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Ram Ki Bandi",
+        "details":"South Indian",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"43 min"
+    },
+    {
+        "id":9,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/8/19937288/b8f98cd0239c1792920ffd087a83f9fa_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Pista House Bakery",
+        "details":"Bakery, Desserts, Sha..",
+        "rating":"4.3", 
+        "price":"₹200 for one",
+        "time":"27 min"
+    },
+    {
+        "id":10,
+        "image":"https://b.zmtcdn.com/data/pictures/9/19531339/2c324bbe071e4dd4aa339c1c37f81128_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Al Rabea Al Arabi Cafeteria",
+        "details":"Wraps, Sandwich, Burger, Fa..",
+        "rating":"4.4", 
+        "price":"₹150 for one",
+        "time":"36 min"
+    },
+    {
+        "id":11,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/0/93970/ae0a71b4d560c4bcf7f52761c614fcc1_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Shah Ghouse Hotel &..",
+        "details":"North Indian, Mughlai..",
+        "rating":"4.2", 
+        "price":"₹150 for one",
+        "time":"28 min"
+    },
+    {
+        "id":12,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/2/94402/4e33710612ee658fe1025e32131f3af8_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"4M Biryani House",
+        "details":"Biryani, Hyderabadi, North..",
+        "rating":"4.2", 
+        "price":"₹150 for one",
+        "time":"38 min"
+    },
+    {
+        "id":13,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/0/18696050/570b0b23af78b7eb1224faa41e0a3584_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Shah Ghouse Sp..",
+        "details":"Shawarma, Bakery, Beverages",
+        "rating":"4.1", 
+        "price":"₹150 for one",
+        "time":"23 min"
+    },
+    {
+        "id":14,
+        "image":"https://b.zmtcdn.com/data/pictures/9/95549/a0b2a026bafe19c317dad480ef355ad8_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"New King Safina Hotel",
+        "details":"Mughlai, Biryani, North Indian",
+        "rating":"4.3", 
+        "price":"₹150 for one",
+        "time":"24 min"
+    },
+    {
+        "id":15,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/3/93043/3088315ab85025468fb789f2871bf131_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Mehfil",
+        "details":"Mughlai, Biryani, North Indian",
+        "rating":"4.1", 
+        "price":"₹150 for one",
+        "time":"31 min"
+    },
+    {
+        "id":16,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/5/90195/0b79e39ffc2e3770f3b66b26c0e6f4fd_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"KFC",
+        "details":"Burger, Fast Food, Biryani..",
+        "rating":"4.0", 
+        "price":"₹150 for one",
+        "time":"27 min"
+    },
+    {
+        "id":17,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/0/92020/3088315ab85025468fb789f2871bf131_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Grand Hotel",
+        "details":"Biryani, North Indian, Mug..",
+        "rating":"4.1", 
+        "price":"₹150 for one",
+        "time":"29 min"
+    },
+    {
+        "id":18,
+        "image":"https://b.zmtcdn.com/data/pictures/5/19704925/5f4ec9239e2d5cf58257fb68231c4f5d_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Food Track",
+        "details":"Fast Food, Burger, Sandwich..",
+        "rating":"4.1", 
+        "price":"₹150 for one",
+        "time":"31 min"
+    },
+    {
+        "id":19,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/5/19751765/b8f98cd0239c1792920ffd087a83f9fa_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Pista House - Premium Lounge",
+        "details":"North Indian, Chinese, I..",
+        "rating":"4.1", 
+        "price":"₹150 for one",
+        "time":"31 min"
+    },
+    {
+        "id":20,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/4/90384/7d1f0c24bf8d0ddf5aad917a9cc1d216_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Pizza Hut",
+        "details":"Pizza, Pasta, Italian, De..",
+        "rating":"4.0", 
+        "price":"₹150 for one",
+        "time":"41 min"
+    },
+    {
+        "id":21,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/2/97262/d2f599f8f623c7ed92b43c97cbb2db0f_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"McDonald's",
+        "details":"Burger, Fast Food",
+        "rating":"4.0", 
+        "price":"₹150 for one",
+        "time":"39 min"
+    },
+    {
+        "id":22,
+        "image":"https://b.zmtcdn.com/data/pictures/1/19497661/f3e30f26bacec0c1792418bd23df5759_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"MS Mandi & Shawarma",
+        "details":"North Indian, Mandi..",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"37 min"
+    },
+    {
+        "id":23,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/4/94244/c8be1c1322e5ac3efec13d95163536ee_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"New Grand Restaurant..",
+        "details":"North Indian, Mu..",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"29 min"
+    },
+    {
+        "id":24,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/9/93739/fc0cf5f469a0b7ad3689072652afa20e_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Chotu's The Food People",
+        "details":"North Indian, Chinese, Bi..",
+        "rating":"3.7", 
+        "price":"₹200 for one",
+        "time":"26 min"
+    },
+    {
+        "id":25,
+        "image":"https://b.zmtcdn.com/data/pictures/1/18866651/2a1b71eb8897b21fc6eff251fa61a432_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Al Farooj Sonu Kabab",
+        "details":"Chinese, North Indian",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"26 min"
+    },
+    {
+        "id":26,
+        "image":"https://b.zmtcdn.com/data/pictures/5/19891595/6d270c5961d575b31e79488869e9f363_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Al Akbar Fast Food Corner",
+        "details":"Chinese, Beverages",
+        "rating":"4.2", 
+        "price":"₹200 for one",
+        "time":"20 min"
+    },
+    {
+        "id":27,
+        "image":"https://b.zmtcdn.com/data/pictures/4/20494524/16dc646cf84726cd5c088082fab16164_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Al Rabea Mandi House",
+        "details":"Mandi",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"24 min"
+    },
+    {
+        "id":28,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/8/18138658/a6c8129329bf976270361b45058f110b_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Burger King",
+        "details":"Burger, Fast Food",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"38 min"
+    },
+    {
+        "id":29,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/2/91662/18e4f17ebaac1621897f3aae761b75a3_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Paradise Biryani",
+        "details":"Biryani, North Indian..",
+        "rating":"3.5", 
+        "price":"₹200 for one",
+        "time":"29 min"
+    },
+    {
+        "id":30,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/8/18618688/c9566b8c62a2481fa3062675aeb6263a_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Lassi Shop",
+        "details":"Ice Cream, Beverages..",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"31 min"
+    },
+    {
+        "id":31,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/9/18423509/783b127c0c237353a7b987fcc1bcc63e_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Ovenstory Pizza",
+        "details":"Pizza, Fast Food",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"40 min"
+    },
+    {
+        "id":32,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/5/18241275/a1fbd73fc42f760747e78b8526cf0f95_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Cafe Niloufer",
+        "details":"Cafe, Tea, Bakery..",
+        "rating":"4.4", 
+        "price":"₹200 for one",
+        "time":"45 min"
+    },
+    {
+        "id":33,
+        "image":"https://b.zmtcdn.com/data/pictures/chains/1/91711/f3704598c336542166b781026fc5ad4b_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Hotel Shadab",
+        "details":"North Indian, Mughlai..",
+        "rating":"4.1", 
+        "price":"₹200 for one",
+        "time":"25 min"
+    },
+    {
+        "id":34,
+        "image":"https://b.zmtcdn.com/data/pictures/2/20105372/0e43ac5db578895b27d8e24d01c48c71_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Redaan Restaurant",
+        "details":"Biryani, Chinese, Mu..",
+        "rating":"4.3", 
+        "price":"₹200 for one",
+        "time":"27 min"
+    },
+    {
+        "id":35,
+        "image":"https://b.zmtcdn.com/data/pictures/6/92026/e54a3546346fb18da7a06d799d647849_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Mayur Pan House",
+        "details":"Street Food, Pizza..",
+        "rating":"3.9", 
+        "price":"₹200 for one",
+        "time":"72 min"
+    },
+    {
+        "id":36,
+        "image":"https://b.zmtcdn.com/data/pictures/8/18728578/062f32b78efda39efa3c89c29ac8911b_o2_featured_v2.jpg",
+        "offer":"50% OFF up to 100",
+        "name":"Coffee Cream",
+        "details":"Fast Food, Desserts..",
+        "rating":"4.0", 
+        "price":"₹200 for one",
+        "time":"35 min"
+    }       
+]
